@@ -1,0 +1,10 @@
+mitm-ssh
+config.h
+config.status
+config.cache
+config.log
+stamp-h.in
+Makefile
+*.out
+ssh_prng_cmds
+opensshd.init
